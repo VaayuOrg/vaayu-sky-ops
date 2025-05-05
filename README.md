@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-# SkyOps Project
+# VAAYU-Sky-Ops Project
 
 ## Installation and Setup
 
@@ -39,7 +39,7 @@ To run test cases, execute:
 pytest tests/
 ```
 
-<h1>SkyOps Project Structure</h1>
+<h1>VAAYU-SkyOps Project Structure</h1>
 <pre>
 skyops/
 │
