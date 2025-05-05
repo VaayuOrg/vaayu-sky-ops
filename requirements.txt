@@ -1,0 +1,4 @@
+flask
+flask-socketio
+dronekit
+pyserial
